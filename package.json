@@ -1,0 +1,24 @@
+{
+  "name": "Monika",
+  "version": "1.0.0",
+  "description": "Monika es un bot creado por September para Florensia online.",
+  "main": "index.js",
+  "start": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "author": "September",
+  "license": "ISC",
+  "dependencies": {
+    "cleverbot-node": "^0.3.11",
+    "discord.js": "^11.4.2",
+    "express": "^4.16.4",
+    "node-gyp": "^3.8.0",
+    "npm": "^6.4.1",
+    "package.json": "^2.0.1",
+    "sqlite3": "^4.0.2"
+  }
+}
